@@ -1,0 +1,17 @@
+.title{
+background-color: rgb(204, 197, 249);
+text-align: center;
+font-family: "Courier New";
+margin-bottom: 10px;
+padding: 20px;
+
+}
+
+li{
+    font-family:'Courier New';
+    background-color: rgb(234, 195, 255);
+    margin-bottom: 10px;
+    margin-left: 200px;
+    margin-right: 120px;
+
+}
